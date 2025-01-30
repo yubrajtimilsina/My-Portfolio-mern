@@ -1,0 +1,20 @@
+{
+  "name": "mern-portfoli",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "license": "ISC",
+  "author": "yubraj",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16",
+    "react-scripts": "^5.0.1",
+    "sendmail": "^1.6.1"
+  }
+}
